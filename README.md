@@ -1,2 +1,2 @@
 # hello-world
-to store random staffs
+to store some random staffs
